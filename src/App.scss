@@ -1,0 +1,32 @@
+body {
+  background-color: #444444;
+  color: #DDDDDD;
+}
+
+.App {
+  position: relative;
+  height: 100vh;
+}
+
+.LeftSideBar {
+  float: left;
+  width: 200px;
+  border: 1px solid #FF8888;
+}
+
+.RequestPane {
+  margin-left: 220px;
+}
+
+.RequestBox {
+  width: 100%;
+  border: 1px solid #5599ff;
+  padding: 10px 30px;
+}
+
+.ResponseBox {
+  width: 100%;
+  border: 1px solid #5599ff;
+  padding: 10px 30px;
+  margin-top: 15px;
+}
